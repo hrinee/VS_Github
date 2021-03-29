@@ -6,10 +6,10 @@ int main() {
 	int a, b;
 
 	cin >> a >> b;
-	//input
 	
 	cout << a << "," << b << endl;
-	//output
+	
+	//master branch
 
 	return 0;
 }
